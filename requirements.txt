@@ -1,0 +1,13 @@
+python-dotenv
+Telethon
+tweepy
+mysql-connector-python
+Pillow
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+streamlit
+selenium
+webdriver-manager
+openai

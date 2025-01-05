@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.tmp
+*.log
+*.session
+
+# Environment Variables
+.env
+
+# Virtual environment
+venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data and credentials
+data/*.json
+data/*.txt
+data/chrome_user_data/
+data/chromewebdriver
+
+# Media files
+media/saved images/
+media/saved videos/
+
+# ChromeDriver and related tools
+chromedriver
+data/chromewebdriver/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Docker-related files
+*.fifo
+
+# Tests and unused code
+tests/
+unused_code.py
+
+# Bot session files
+website/bot.session-journal
+
+# Miscellaneous
+*.bak
+*.swp
+*.~lock.*
+*.orig
+
+# Exclude blogger.py and unused_code.py
+blogger.py
+unused_code.py
